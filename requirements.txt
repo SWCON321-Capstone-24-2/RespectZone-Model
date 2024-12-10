@@ -1,0 +1,11 @@
+numpy>=1.22.0,<1.24.0
+pandas>=2.0.0
+torch>=2.0.0
+transformers>=4.30.0
+scikit-learn>=1.0.2
+matplotlib>=3.7.0
+spacy>=3.5.0
+python-dotenv>=0.21.0
+tqdm>=4.64.0
+pillow>=9.3.0
+datasets
